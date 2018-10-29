@@ -1,0 +1,24 @@
+header {
+
+  width: 100%;
+  height:100px;
+  text-align:center;
+  background-position: center;
+  background: red; /* For browsers that do not support gradients */
+  background: linear-gradient(#11F3F3, #10EFAF); /* Standard syntax (must be last) */
+    background-repeat: no-repeat;
+}
+
+#in1 {
+  width:500px;
+  height:25px;
+  border-width:5px;
+  border-color:#1B2631;
+  background-color:#D0F2F9;
+
+}
+
+#back {
+  color:#ABEF10;
+
+}
